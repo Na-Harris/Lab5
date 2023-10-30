@@ -1,5 +1,5 @@
 # TOOP Lab 5
-This lab exercise is closed book/closed notes except for these websites:
+This lab exercise is closed book/closed notes except for these references:
 * [cplusplus.com website](https://cplusplus.com/)
 * [Pololu 3 pi plus 32U4 arduino library](https://github.com/pololu/pololu-3pi-plus-32u4-arduino-library)
 * [Platform IO Pololu3piplus32U4 Installation Guide](https://registry.platformio.org/libraries/pololu/Pololu3piPlus32U4/installation)
