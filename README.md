@@ -10,7 +10,7 @@ This Lab is individual effort. It is to be completed in person on the Platform
 
 # Lab Procedures
 1. In `setup()`
-  - Initialize the OLED, turnsensor,
+  - Initialize the OLED and turnsensor
   - Display your name on the top line of the OLED (it should remain there for the duration of your program).  Ensure your entire name fits on the first line. 
 2. Write a user defined function called `lab5()` that does the following:
   - If button A is pressed, turn clockwise 90 degrees.  Print “Turning Right” on the second line of the OLED.
